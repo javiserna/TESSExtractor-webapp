@@ -5,4 +5,4 @@
 
 If you use products of TESSExtractor on your research, please cite:
 
-Serna et al (2021).[ApJ 923 177](https://doi.org/10.3847/1538-4357/AC300A)
+Serna et al (2021). [ApJ 923 177](https://doi.org/10.3847/1538-4357/AC300A)
