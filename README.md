@@ -9,5 +9,5 @@ support@tessextractor.app
 
 If you use TESSExtractor on your research, please cite:
 
-***Serna et al (2021)***. [ApJ 923 177](https://doi.org/10.3847/1538-4357/AC300A) ***
+***Serna et al (2021)***. [ApJ 923 177](https://doi.org/10.3847/1538-4357/AC300A) and ***Brasseur et al (2019)***. [ascl:1905.007](https://ui.adsabs.harvard.edu/abs/2019ascl.soft05007B/abstract)
 
