@@ -7,7 +7,9 @@
 Need assistance? Please email
 support@tessextractor.app
 
-#### If you use TESSExtractor on your research, please cite:
-
-> _Serna et al (2021)_. [ApJ 923 177](https://doi.org/10.3847/1538-4357/AC300A); _Brasseur et al (2019)_. [ascl:1905.007](https://ui.adsabs.harvard.edu/abs/2019ascl.soft05007B/abstract)
+>#### If you use TESSExtractor on your research, please cite:
+>
+> _Serna et al (2021)_. [ApJ 923 177](https://doi.org/10.3847/1538-4357/AC300A)
+> 
+> _Brasseur et al (2019)_. [ascl:1905.007](https://ui.adsabs.harvard.edu/abs/2019ascl.soft05007B/abstract)
 
