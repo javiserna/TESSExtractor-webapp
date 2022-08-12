@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/15573863/184281897-1da048fb-4627-4c02-b25f-3ad6c2841df1.png" width="582" Height="169"/>
+![render](https://user-images.githubusercontent.com/15573863/184284205-b7e0f8a8-7dd7-4881-93d0-1a8cf81da140.gif)
 
 ## A user-friendly web application to visualize TESS light curves
 
