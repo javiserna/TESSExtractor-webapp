@@ -7,7 +7,7 @@ Are you interested in checking if a star is variable or not? Or simply, are you 
 Check out the TESSExtractor application:
 ### www.tessextractor.app
 
-Getting started:
+Getting started? Please take a look:
 https://www.youtube.com/watch?v=dxV4HdRwbfg
 
 
