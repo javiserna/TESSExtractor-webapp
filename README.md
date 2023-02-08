@@ -10,6 +10,11 @@ Check out the TESSExtractor application:
 Getting started? Please take a look:
 https://www.youtube.com/watch?v=dxV4HdRwbfg
 
+### To do
+*Add colors to periods
+*Add a check box to apply the systematic correction
+*Add a zoomable version to the systematic tab
+*
 
 Need assistance? Please email
 support@tessextractor.app
