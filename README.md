@@ -16,12 +16,12 @@ support@tessextractor.app
 Feel free to use this app in any scientific project!
 
 >#### Please cite:
-[![DOI](https://zenodo.org/badge/523947260.svg)](https://zenodo.org/doi/10.5281/zenodo.10807325)
 >
 >- _Serna et al (2021)_. [ApJ 923 177](https://doi.org/10.3847/1538-4357/AC300A)
 > 
 >- _Brasseur et al (2019)_. [ascl:1905.007](https://ui.adsabs.harvard.edu/abs/2019ascl.soft05007B/abstract)
-> 
+>
+[![DOI](https://zenodo.org/badge/523947260.svg)](https://zenodo.org/doi/10.5281/zenodo.10807325)
 
 Copyright© 2022.
 Javier Serna, Jesús Hernandez and ARYSO group.
