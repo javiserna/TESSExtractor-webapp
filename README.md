@@ -10,17 +10,13 @@ Check out the TESSExtractor application:
 Getting started? Please take a look:
 https://www.youtube.com/watch?v=dxV4HdRwbfg
 
-### To do
-*Add colors to the period labels
-*Add a check box to apply the systematic correction
-*Add a zoomable version to the systematic tab
-
 Need assistance? Please email
 support@tessextractor.app
 
 Feel free to use this app in any scientific project!
 
 >#### Please cite:
+[![DOI](https://zenodo.org/badge/523947260.svg)](https://zenodo.org/doi/10.5281/zenodo.10807325)
 >
 >- _Serna et al (2021)_. [ApJ 923 177](https://doi.org/10.3847/1538-4357/AC300A)
 > 
